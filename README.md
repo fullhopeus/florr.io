@@ -1,5 +1,6 @@
 # flower (florr.io)
 ## English Version
+<h3>Note: There will be the first release later!!!</h3>
 This is a auto engine powered by Leo. <br>
 Leo is a boy that played florr.io for two months but his account was attacked by a hacker! <br>
 The hacker absorbs all the equipments in the Leo's account, and resets to the Lv1! <br>
@@ -9,6 +10,7 @@ This repository was shared by Leo and other boys. They are: <br>
 And if you meet them in the game, please help them! <br>
 
 ## 中文版本
+<h3>注意：第一个版本马上来到！！！</h3>
 这是由 Leo 提供的florr.io外挂。 <br>
 Leo是一个男孩。他以前玩florr.io，但是他被黑客攻击了。<br>
 黑客absorb了Leo账户中的所有装备，然后重置为Lv1。我真无语，黑客也能被黑客攻击。<br>
